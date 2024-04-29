@@ -61,7 +61,7 @@ strong {
 }
 .apresentacao {
 
-    padding: 5% 20%; /* igual ao de cabecalho*/
+    padding: 5% 10%; /* igual ao de cabecalho*/
     display: flex;
     align-items: center;
     justify-content: space-between; /*pra dar espaço entre a seção texto  e imagem*/
